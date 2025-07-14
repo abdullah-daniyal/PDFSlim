@@ -15,7 +15,7 @@ A **completely free**, lightweight PDF editor for **Windows 7, 8, and 10**, offe
 
 ## Why PDFSlim?
 
-Windows 7 and 8 lack any built-in PDF editing tools. Even on Windows 10+, the default **Edge PDF viewer only supports basic annotations**—no cropping, text edits, or high-level modifications without third‑party or paid software :contentReference[oaicite:2]{index=2}.
+Windows 7 and 8 lack any built-in PDF editing tools. Even on Windows 10+, the default **Edge PDF viewer only supports basic annotations**—no cropping, text edits, or high-level modifications without third‑party or paid software
 
 PDFSlim fills this gap by providing:
 
