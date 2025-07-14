@@ -25,64 +25,8 @@ PDFSlim fills this gap by providing:
 
 ---
 
-## Installation
+## Website URL
 
-1. Download the latest installer from the [Releases](#) page.  
-2. Run the `.exe` and follow on-screen instructions.  
-3. Launch **PDFSlim** from Start Menu or desktop shortcut.
-
----
-
-## Quick Start
-
-1. **Open a PDF** via File → Open  
-2. **Highlight** text or areas using the marker tool  
-3. **Crop** pages manually or with presets  
-4. **Save a new version** with edits included
-
----
-
-## Screenshots
-
-*Add UI screenshots here—highlight tool in use, cropping, and saved PDF preview.*
-
----
-
-## File Format & Security
-
-- All edits are embedded in the resulting PDF—no layered annotations  
-- Keeps original margins/text integrity unless cropped  
-- No file uploads—100% offline
-
----
-
-## Roadmap
-
-- [ ] **Batch processing** for cropping/highlighting  
-- [ ] **Undo history** for multi-action reversals  
-- [ ] **Annotation notes & shapes** (e.g., arrows, stamps)  
-- [ ] **Export cropped page images**
-
----
-
-## Contributing
-
-1. Fork this repo  
-2. Create a feature branch  
-3. Submit a pull request—let’s build this together!
-
----
-
-## License
-
-Distributed under the **MIT License**.  
-See `LICENSE` for details.
-
----
-
-## Contact
-
-Created by *[Your Name]*.  
-Found a bug or want to request a feature? File an issue or drop a message!
+https://dancing-rabanadas-539fa0.netlify.app/
 
 Enjoy effortless PDF editing—welcome to **PDFSlim!** 🚀
